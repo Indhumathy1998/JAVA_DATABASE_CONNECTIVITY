@@ -1,6 +1,7 @@
 create database logindata;
 use logindata;
 create table login (uname varchar(20),pass varchar(20));
+insert into login values('indhu','mathy')                                                  
 insert into login values('DemoUserName1','DemoPassword1');
 insert into login values('DemoUserName2','DemoPassword2');
 insert into login values('DemoUserName3','DemoPassword3');
